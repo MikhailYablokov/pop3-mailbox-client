@@ -10,6 +10,7 @@
 ---
 Вид hMailServer:
 ![alt text](img/image.png)
+
 Логи взаимодействия:
 ![alt text](img/image-1.png)
 
