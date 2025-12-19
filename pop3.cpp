@@ -75,7 +75,7 @@ void print_menu() {
 }
 
 int main(int argc, char* argv[]) {
-    string username = "user123";
+    string username = "user123@localdomain.com";
     string password = "12345678";
     string server_ip = "127.0.0.1";
     int port = 110;

@@ -9,9 +9,9 @@
 
 ---
 Вид hMailServer:
-![alt text](image.png)
+![alt text](img/image.png)
 Логи взаимодействия:
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 Пример запуска и работы программы:
-![alt text](image-3.png)
+![alt text](img/image-3.png)
